@@ -1,0 +1,19 @@
+{
+  "name": "us299b",
+  "version": "1.0.0",
+  "description": "us299b da ce-245",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "eslint": "^4.19.1",
+    "express": "^4.15.5",
+    "mongoose": "*",
+    "request": "^2.85.0"
+  },
+  "author": "ricardo",
+  "license": "ISC",
+  "devDependencies": {}
+}
